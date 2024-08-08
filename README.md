@@ -3,7 +3,9 @@ Proprietary implementation library of "string.h"
 
 ### Build 
 -use **make s21_string.a** to create "s21_string.a" library
+
 -use **make** to make tests with library
+
 -use **make gcov_report** to show gcov/lcov-report of test coverage
 
 ### string.h Types
